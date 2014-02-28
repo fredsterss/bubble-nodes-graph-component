@@ -1,0 +1,18 @@
+{
+  "name": "bubble-nodes-graph-component",
+  "repo": "fredsterss/bubble-nodes-graph-component",
+  "description": "Component that renders a bubble node graph",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "bubble-nodes-graph-component.css"
+  ]
+}
